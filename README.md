@@ -10,6 +10,7 @@ chmod -R 777 ./
 # Ayuda de Artisan
 ```
 php artisan make:model --help
+php artisan make:model Category -m
 ```
 
 # Instalar PHP y MYSQL
