@@ -7,6 +7,10 @@ de lara_app
 chmod -R 777 ./
 ```
 
+# Ayuda de Artisan
+```
+php artisan make:model --help
+```
 
 # Instalar PHP y MYSQL
 ```
