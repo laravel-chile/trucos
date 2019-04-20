@@ -14,6 +14,7 @@ mkdir laravel
 cd laravel
 git clone https://github.com/laravel/laravel.git
 composer install
+composer create-project --prefer-dist laravel/laravel lara_app
 
 
 # Carpeta web
