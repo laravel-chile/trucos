@@ -1,9 +1,11 @@
 # trucos
 
 # Creando un Proyecto
+```
 composer create-project --prefer-dist laravel/laravel lara_app
 de lara_app
 chmod -R 777 ./
+```
 
 
 # Instalar PHP y MYSQL
