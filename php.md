@@ -1,5 +1,3 @@
-# trucos
-
 # Instalando PHP
 ```
 sudo add-apt-repository ppa:ondrej/php
